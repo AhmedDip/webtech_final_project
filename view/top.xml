@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+  
+    <CD>
+    <PRODUCT>LED TV</PRODUCT>
+    <BRAND>Samsung</BRAND>
+    <PRICE>55000</PRICE>
+    <DES> Android TV  </DES>
+    <RATING> 4.8/5.0 </RATING>
+  </CD>
+
+  <CD>
+    <PRODUCT>Laptop</PRODUCT>
+    <BRAND>Acer</BRAND>
+    <PRICE>65000</PRICE>
+    <DES> Core i5 </DES>
+    <RATING> 4.6/5.0  </RATING>
+  </CD>
+
+  <CD>
+    <PRODUCT>Mobile</PRODUCT>
+    <BRAND>Mi</BRAND>
+    <PRICE>15000</PRICE>
+    <DES> Android </DES>
+    <RATING> 4.5/5.0  </RATING>
+  </CD>
+
+  <CD>
+    <PRODUCT>Air Conditioner</PRODUCT>
+    <BRAND>Whirpool</BRAND>
+    <PRICE>75000</PRICE>
+    <DES> Inverter  </DES>
+    <RATING> 4.5/5.0 </RATING>
+  </CD>
+  
+  <CD>
+    <PRODUCT>Washing Machine</PRODUCT>
+    <BRAND>Samsung</BRAND>
+    <PRICE>85000</PRICE>
+    <DES> 10 kg  </DES>
+    <RATING> 4.2/5.0 </RATING>
+  </CD>
+
+  <CD>
+    <PRODUCT>Mobile</PRODUCT>
+    <BRAND>Samsung</BRAND>
+    <PRICE>60000</PRICE>
+    <DES> Android </DES>
+    <RATING> 4.5/5.0  </RATING>
+  </CD>
+
+  <CD>
+    <PRODUCT>Laptop</PRODUCT>
+    <BRAND>HP</BRAND>
+    <PRICE>95000</PRICE>
+    <DES> Core i7 </DES>
+    <RATING> 4.4/5.0  </RATING>
+  </CD>
+
+
+
+
+</CATALOG>
